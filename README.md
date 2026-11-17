@@ -1,7 +1,8 @@
 # About Me
 - Education: B.S., M.S., in Computer Science from Stevens Institute of Technology
-- Website: [tshabbic.com](https://tshabbic.com)
+- Website: [tshabbic.com](https://tshabbic.com) - this is a great place to learn more about me!
 - See the [projects page](https://tshabbic.com/projects) on my website for some of my projects!
+- See my [blog](https://tshabbic.com/blog) for write-ups on both technical and non-technical things!
 
 ## Academic Research 
 **Exploiting Distributed Shared Memory via Thread Block Clusters on Hopper GPUs for Faster SpGEMM**
