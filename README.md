@@ -1,9 +1,13 @@
 # About Me
-- Education: B.S., M.S., in Computer Science at Stevens Institute of Technology
+- Education: B.S., M.S., in Computer Science from Stevens Institute of Technology
 - Website: [tshabbic.com](https://tshabbic.com)
-
-### Projects 
 - See the [projects page](https://tshabbic.com/projects) on my website for some of my projects!
+
+## Academic Research 
+**Exploiting Distributed Shared Memory via Thread Block Clusters on Hopper GPUs for Faster SpGEMM**
+I'm investigating how Hopper's thread block clusters and distributed shared memory can speed up general sparse matrix multiplication (SpGEMM), benchmarked against cuSPARSE on H200 GPUs. This work is being prepared for submission to peer review.
+
+For fun, I'm also planning to see how well these gains carry over to multi-node systems (e.g., three nodes with 4x H200 each).
 
 ### Languages <sub>(the ones I actually like using)</sub>
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/Skilz-Discipile)
