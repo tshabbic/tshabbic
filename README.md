@@ -5,6 +5,7 @@
 
 ## Academic Research 
 **Exploiting Distributed Shared Memory via Thread Block Clusters on Hopper GPUs for Faster SpGEMM**
+
 I'm investigating how Hopper's thread block clusters and distributed shared memory can speed up general sparse matrix multiplication (SpGEMM), benchmarked against cuSPARSE on H200 GPUs. This work is being prepared for submission to peer review.
 
 For fun, I'm also planning to see how well these gains carry over to multi-node systems (e.g., three nodes with 4x H200 each).
