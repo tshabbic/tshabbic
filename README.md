@@ -52,7 +52,7 @@ For fun, I'm also planning to see how well these gains carry over to multi-node 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![vi(1)](https://img.shields.io/badge/vi%281%29-019733?style=for-the-badge&logo=vim&logoColor=white) (and vim(1)!)
+![vi(1)](https://img.shields.io/badge/vi%281%29-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 ### Operating Systems & Cloud
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
